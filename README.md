@@ -1,5 +1,5 @@
 # Game of Thrones Characters and 2019 U.S. Baby Names
-*This project investigates the effect, if any, that TV show "Game of Thrones" had on American baby names by comparing a list of names from the year 2010 (series premiere was April, 17, 2011) and the year 2019, which was when the last episode of the series aired (May 19, 2019).*
+*This project investigates the effect, if any, that TV show "Game of Thrones" had on American baby names by comparing a list of names from the year 2010 (series premiere was April, 17, 2011) and the year 2019, which was when the last episode of the series aired (May 19, 2019). If my theory is correct, specific character names with either grow in the number of instances and/or make an appearance where there previously wasn't. Names researched include: Arya, Bran, Brienne, Catelyn, Cersei, Daenerys, Jaime, Joffrey, Jon, Jorah, Margaery, Melisandre, Robb, Samwell, Sansa, Theon, Tyrion.*
 
 [![](assets/game_of_thrones_image.jpeg)](#)
 
