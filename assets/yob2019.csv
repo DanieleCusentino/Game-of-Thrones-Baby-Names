@@ -1,4 +1,4 @@
-Name,Gender,2019 Name Count
+Name,Gender,2019_count
 Emma,F,17176
 Ava,F,14515
 Sophia,F,13769
@@ -1508,7 +1508,7 @@ Pepper,F,144
 Rain,F,144
 Siya,F,144
 Sol,F,144
-True,F,144
+TRUE,F,144
 Danika,F,143
 Emry,F,143
 Larissa,F,143
@@ -19228,7 +19228,7 @@ Darien,M,149
 Loki,M,149
 Milton,M,149
 Stephan,M,149
-True,M,149
+TRUE,M,149
 Aubrey,M,148
 Carlo,M,148
 Elio,M,148
