@@ -7,7 +7,7 @@
 Source:  [United States Social Security Administration National Data](https://www.ssa.gov/oact/babynames/limits.html)
 
 ## Goals For This Project (DRAFT -- UPDATE THIS)
-1. Read in data from a csv file with the pandas read_ function.
-2. Manipulate the data by converting a txt file to csv, then adding headers to clean up the file.
-3. Analyze the data (32072 rows) into usable information to determine whether GOT character names show up in the dataset.
-4. Plot the name data to see which name was the most popular of the designated characters. 
+1. Read data in: I read in data from two .csv files with the pandas read_ function, then combined two dataframes into one.
+2. Manipulate and clean data: I used pandas to remove null values in the dataframe.
+3. Analyze the data: I used pandas to select rows in the dataframe based on specified conditions (Name), which pulled the data I needed and helped me determine whether specific GOT character names appeared in the dataset; and the comparison of the appearances between 2010 and 2019.
+4. Visualize the data: Plot the name data to see which name was the most popular of the designated characters. 
