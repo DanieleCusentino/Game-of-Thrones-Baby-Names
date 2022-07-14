@@ -6,7 +6,7 @@
 
 Source:  [United States Social Security Administration National Data](https://www.ssa.gov/oact/babynames/limits.html)
 
-## Goals For This Project (DRAFT -- UPDATE THIS)
+## Goals For This Project
 1. Read data in: I read in data from two .csv files with the pandas read_ function, then combined two dataframes into one.
 2. Manipulate and clean data: I used pandas to remove null values in the dataframe.
 3. Analyze the data: I used pandas to select rows in the dataframe based on specified conditions (Name), which pulled the data I needed and helped me determine whether specific GOT character names appeared in the dataset; and the comparison of the appearances between 2010 and 2019.
