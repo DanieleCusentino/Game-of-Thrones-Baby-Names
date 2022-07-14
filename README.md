@@ -11,3 +11,4 @@ Source:  [United States Social Security Administration National Data](https://ww
 2. Manipulate and clean data: I used pandas to remove null values in the dataframe.
 3. Analyze the data: I used pandas to select rows in the dataframe based on specified conditions (Name), which pulled the data I needed and helped me determine whether specific GOT character names appeared in the dataset; and the comparison of the appearances between 2010 and 2019.
 4. Visualize the data: Plot the name data to see which name was the most popular of the designated characters. 
+5. Interpret data and graphical output: I wrote markdown cells in my Jupyter notebook explaining my thought process and code. 
