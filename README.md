@@ -13,7 +13,7 @@ Source:  [United States Social Security Administration National Data](https://ww
 4. Visualize the data: Plot the name data to see which name was the most popular of the designated characters. 
 5. Interpret data and graphical output: I wrote markdown cells in my Jupyter notebook explaining my thought process and code. 
 
-# Requirements
+## Language and Packages Used
 python: 3.10.4.final.0<br>
 pandas: 1.4.2<br>
 matplotlib: 3.5.2<br>
