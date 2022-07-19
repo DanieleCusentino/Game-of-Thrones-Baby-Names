@@ -14,6 +14,6 @@ Source:  [United States Social Security Administration National Data](https://ww
 5. Interpret data and graphical output: I wrote markdown cells in my Jupyter notebook explaining my thought process and code. 
 
 # Requirements
-python: 3.10.4.final.0
-pandas: 1.4.2
-matplotlib: 3.5.2
+python: 3.10.4.final.0<br>
+pandas: 1.4.2<br>
+matplotlib: 3.5.2<br>
