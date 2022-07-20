@@ -14,9 +14,9 @@ Source:  [United States Social Security Administration National Data](https://ww
 5. Interpret data and graphical output: I wrote markdown cells in my Jupyter notebook explaining my thought process and code. 
 
 ## To Run
-Click the Game_of_Thrones.ipynb above and view the project.<br><br>
+Click the Game_of_Thrones.ipynb above and view the project.<br>
 
-OR<br><br>
+OR<br>
 
 Clone this github folder to your desktop.<br>
 From terminal, navigate to the directory of the project.<br>
