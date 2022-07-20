@@ -24,5 +24,6 @@ Type the following command: pip install -r requirements.txt.<br>
 Open the Game_of_Thrones.ipynb file Visual Studio Code or Jupyter Notebook.<br> 
 Click "Run All." 
 
-
+## Special Thanks
+Thank you to the Code Kentucky and Code Louisville mentors for helping me learn Python enough to build a project like this from scratch! 
 
