@@ -15,5 +15,6 @@ Source:  [United States Social Security Administration National Data](https://ww
 
 ## Language and Packages Used
 python: 3.10.4.final.0<br>
+jupyter notebook<br>
 pandas<br>
 matplotlib
