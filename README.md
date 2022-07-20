@@ -13,10 +13,16 @@ Source:  [United States Social Security Administration National Data](https://ww
 4. Visualize the data: Plot the name data to see which name was the most popular of the designated characters. 
 5. Interpret data and graphical output: I wrote markdown cells in my Jupyter notebook explaining my thought process and code. 
 
-## Options
+## To Run
+Click the Game_of_Thrones.ipynb above and view the project.<br><br>
+
+OR<br><br>
+
 Clone this github folder to your desktop.<br>
-In the terminal, navigate to the directory of the project.<br>
+From terminal, navigate to the directory of the project.<br>
 Type the following command: pip install -r requirements.txt.<br>
+Open the Game_of_Thrones.ipynb file Visual Studio Code or Jupyter Notebook.<br> 
+Click "Run All." 
 
 
 
