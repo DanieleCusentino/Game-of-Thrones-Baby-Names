@@ -15,10 +15,5 @@ Source:  [United States Social Security Administration National Data](https://ww
 
 ## Language and Packages Used
 python: 3.10.4.final.0<br>
-pandas: 1.4.2<br>
-matplotlib: 3.5.2<br>
-
-## Easy Way to View This Jupyter Notebook in Google Collab
-1. Open https://colab.research.google.com/github/ in a new tab.
-2. Enter this Github URL: https://github.com/DanieleCusentino/Game-of-Thrones-Baby-Names
-3. Click "Game_of_Thrones.ipynb" to open it.
+pandas
+matplotlib
