@@ -21,7 +21,7 @@ OR<br>
 Clone this github folder to your desktop.<br>
 From terminal, navigate to the directory of the project.<br>
 Type the following command: pip install -r requirements.txt.<br>
-Open the Game_of_Thrones.ipynb file in Jupyter Notebook, Visual Studio Code or your favorite code editor.<br> 
+Open the Game_of_Thrones.ipynb file in Jupyter Notebook or Visual Studio Code.<br> 
 Click "Run All." 
 
 ## Special Thanks
