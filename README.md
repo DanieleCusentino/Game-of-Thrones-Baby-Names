@@ -1,6 +1,6 @@
 # Game of Thrones Characters and U.S. Baby Names
 *This project investigates the effect, if any, that TV show "Game of Thrones" had on American baby names by comparing a list of names from the year 2010 (series premiere was April 17, 2011) and the year 2019 (the last episode of the series aired on May 19, 2019). If my theory is correct, specific character names will either grow in the number of instances and/or make an appearance where there previously wasn't. Names researched include: Arya, Brienne, Cersei, Daenerys, Jon, Jorah, Khaleesi, Margaery, Samwell, Sansa, Theon, Tyrion.
-<br>
+<br><br>
 Project by Daniele Cusentino*
 
 [![](assets/game_of_thrones_image.jpeg)](#)
@@ -16,15 +16,15 @@ Source:  [United States Social Security Administration National Data](https://ww
 5. Interpret data and graphical output: I wrote markdown cells in my Jupyter notebook explaining my thought process and code. 
 
 ## To Run
-Click the Game_of_Thrones.ipynb above and view the project.<br>
+Click the Game_of_Thrones.ipynb above and view the project directly in github.<br>
 
 OR<br>
 
-Clone this github folder to your desktop.<br>
-From terminal, navigate to the directory of the project.<br>
+Clone the github folder to your desktop by clicking the green code button above and downloading the zip file to your desktop. Unzip the file.<br>
+From terminal, navigate to the directory of the project (cd /Game-of-Thrones-Baby-Names-main).<br>
 Type the following command: pip install -r requirements.txt.<br>
-Open the Game_of_Thrones.ipynb file in Jupyter Notebook or Visual Studio Code.<br> 
-Click "Run All." 
+Open the Game_of_Thrones.ipynb file in [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) or [Visual Studio Code](https://code.visualstudio.com/).<br> 
+
 
 ## Special Thanks
 Thank you to the Code Kentucky and Code Louisville mentors for helping me learn Python enough to build a project like this from scratch! 
