@@ -27,5 +27,5 @@ Open the Game_of_Thrones.ipynb file with [Visual Studio Code](https://code.visua
 
 
 ## Special Thanks
-Thank you to the Code Kentucky and Code Louisville mentors for helping me learn Python enough to build a project like this from scratch. And to my husband, Chris, for always encouraging me and ensuring our daughter stays out of my hair while I'm in class and/or working on my project. 
+Thank you to the Code Kentucky and Code Louisville mentors for helping me learn Python enough to build a project like this from scratch. And to my husband, Chris, for always encouraging me and ensuring our daughter stayed out of my hair while I was in class and/or working on my project. 
 
