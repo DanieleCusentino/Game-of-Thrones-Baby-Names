@@ -21,7 +21,7 @@ Click the Game_of_Thrones.ipynb above and view the project directly in github.<b
 OR<br>
 
 Clone the github folder to your desktop by clicking the green code button above and downloading the zip file to your desktop. Unzip the file.<br>
-From terminal, navigate to the directory of the project (cd /Game-of-Thrones-Baby-Names-main).<br>
+From terminal, navigate to the directory of the project (cd /path_to_where_files_live).<br>
 Type the following command: pip install -r requirements.txt.<br>
 Open the Game_of_Thrones.ipynb file with [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) or [Visual Studio Code](https://code.visualstudio.com/), then run the cells.<br> 
 
